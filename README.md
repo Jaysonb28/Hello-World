@@ -9,7 +9,7 @@
 
 ## Project Title
 
-*Hello Wordl Sample*
+*Hello World Sample*
 
 ## Description
 
