@@ -7,7 +7,6 @@
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
 
 ## Project Title
 
@@ -16,3 +15,11 @@
 ## Description
 
 Created my first GitHub repository to help develop my open-source database coding skills. This repository includes any files that I feel align with what defines me and my interests.
+
+## How to Run Program
+
+## Files Used
+
+## Additional Documentation
+
+
