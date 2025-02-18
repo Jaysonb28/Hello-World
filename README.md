@@ -10,7 +10,7 @@
 
 ## Project Title
 
-*Hello World Sample*
+*Hello-World*
 
 ## Description
 
