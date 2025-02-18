@@ -24,7 +24,8 @@ Created my first GitHub repository to help develop my open-source database codin
 
 ## Additional Documentation
 
-- Here is my **Resume**
+- Attached below is my **Resume**
+
 
 
 
