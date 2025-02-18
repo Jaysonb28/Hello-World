@@ -22,10 +22,6 @@ Created my first GitHub repository to help develop my open-source database codin
 
 ## Files Used
 
-## Additional Documentation
-
-- Attached below is my **Resume**
-
 
 
 
